@@ -1,1 +1,1 @@
-#galon
+#[galon]
